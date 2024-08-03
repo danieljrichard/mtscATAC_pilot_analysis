@@ -17,6 +17,6 @@ Here are the clusters I defined using ArchR, as well as their predicted identiti
 ![Screenshot 2024-08-02 at 5 27 20 PM](https://github.com/user-attachments/assets/8fa3a8f0-0446-438f-a7d2-b1885752044b)
 
 And after analyses, here's an example of a clonotype heatmap generated from this data and analysis workflow:
+![Screenshot 2024-08-02 at 5 29 05 PM](https://github.com/user-attachments/assets/5026a7f7-53f4-4b85-bcf8-caf7e40eaa32)
 
- ![image](https://github.com/user-attachments/assets/fd6eb1fe-5301-4004-8f1f-dabc73f87c33)
 
