@@ -9,3 +9,8 @@ Most analysis revolves around the ArchR script. There's a secondary script for h
 MGATK was run using the latest version available on their Github. All defaults were used, with the command
 
 mgatk tenx  -g mm10 -i possorted_bam.bam -n $SAMPLE -o $OUTDIR -c 24 -bt CB -b barcodes.tsv --keep-temp-files --keep-qc-bams
+
+Here's an example of a clonotype heatmap generated from this data and analysis workflow:
+
+ ![image](https://github.com/user-attachments/assets/fd6eb1fe-5301-4004-8f1f-dabc73f87c33)
+
